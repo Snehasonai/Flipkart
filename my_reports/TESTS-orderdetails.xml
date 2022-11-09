@@ -1,0 +1,48 @@
+<testsuite name="orderdetails.order details flipkart" tests="1" errors="0" failures="0" skipped="0" time="229.513693" timestamp="2022-11-08T23:29:00.740536" hostname="DESKTOP-DL1EDST"><testcase classname="orderdetails.order details flipkart" name="order details -- @1.1 " status="passed" time="229.513693"><system-out>
+<![CDATA[
+@scenario.begin
+  Scenario Outline: order details -- @1.1 
+    Given we navigate to flipkart ... passed in 44.722s
+    Then close the popup ... passed in 0.081s
+    When click login ... passed in 0.068s
+    Then we type "chiranjitc19@gmail.com" field ... passed in 20.179s
+    And we type in "chiranjit123" the field ... passed in 20.163s
+    Then we click on the sign in button ... passed in 0.055s
+    Then we over on profile ... passed in 27.487s
+    And click on Orders ... passed in 5.084s
+    Then click on On the way ... passed in 15.205s
+    Then click on Delivered ... passed in 15.176s
+    Then click on cancelled ... passed in 10.181s
+    Then click on Returned ... passed in 10.169s
+    Then click on Last 30 days ... passed in 10.155s
+    Then click on 2022 ... passed in 10.169s
+    Then click on 2021 ... passed in 10.163s
+    Then click on 2020 ... passed in 10.153s
+    Then click on 2019 ... passed in 10.154s
+    Then click on older ... passed in 10.153s
+
+@scenario.end
+--------------------------------------------------------------------------------
+
+Captured stdout:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</system-out></testcase></testsuite>

@@ -1,0 +1,283 @@
+[
+{
+  "elements": [
+    {
+      "keyword": "Scenario Outline",
+      "location": "features/orderdetails.feature:24",
+      "name": "order details -- @1.1 ",
+      "status": "passed",
+      "steps": [
+        {
+          "keyword": "Given",
+          "location": "features/orderdetails.feature:3",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:5"
+          },
+          "name": "we navigate to flipkart",
+          "result": {
+            "duration": 45.169837474823,
+            "status": "passed"
+          },
+          "step_type": "given"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:4",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:10"
+          },
+          "name": "close the popup",
+          "result": {
+            "duration": 0.07879185676574707,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "When",
+          "location": "features/orderdetails.feature:5",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:14"
+          },
+          "name": "click login",
+          "result": {
+            "duration": 0.07468390464782715,
+            "status": "passed"
+          },
+          "step_type": "when"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:6",
+          "match": {
+            "arguments": [
+              {
+                "name": "username1",
+                "value": "chiranjitc19@gmail.com"
+              }
+            ],
+            "location": "features/steps/orderdetails.py:18"
+          },
+          "name": "we type \"chiranjitc19@gmail.com\" field",
+          "result": {
+            "duration": 20.178449392318726,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/orderdetails.feature:7",
+          "match": {
+            "arguments": [
+              {
+                "name": "password1",
+                "value": "chiranjit123"
+              }
+            ],
+            "location": "features/steps/orderdetails.py:22"
+          },
+          "name": "we type in \"chiranjit123\" the field",
+          "result": {
+            "duration": 20.141459941864014,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:8",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:26"
+          },
+          "name": "we click on the sign in button",
+          "result": {
+            "duration": 0.056056976318359375,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:9",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:32"
+          },
+          "name": "we over on profile",
+          "result": {
+            "duration": 27.715898990631104,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "And",
+          "location": "features/orderdetails.feature:10",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:37"
+          },
+          "name": "click on Orders",
+          "result": {
+            "duration": 5.0837578773498535,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:11",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:43"
+          },
+          "name": "click on On the way",
+          "result": {
+            "duration": 15.212541818618774,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:12",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:47"
+          },
+          "name": "click on Delivered",
+          "result": {
+            "duration": 15.166101217269897,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:13",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:52"
+          },
+          "name": "click on cancelled",
+          "result": {
+            "duration": 10.173349380493164,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:14",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:57"
+          },
+          "name": "click on Returned",
+          "result": {
+            "duration": 10.161066770553589,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:15",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:62"
+          },
+          "name": "click on Last 30 days",
+          "result": {
+            "duration": 10.19392991065979,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:16",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:67"
+          },
+          "name": "click on 2022",
+          "result": {
+            "duration": 10.14321756362915,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:17",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:72"
+          },
+          "name": "click on 2021",
+          "result": {
+            "duration": 10.165441036224365,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:18",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:76"
+          },
+          "name": "click on 2020",
+          "result": {
+            "duration": 10.14132308959961,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:19",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:81"
+          },
+          "name": "click on 2019",
+          "result": {
+            "duration": 10.156458139419556,
+            "status": "passed"
+          },
+          "step_type": "then"
+        },
+        {
+          "keyword": "Then",
+          "location": "features/orderdetails.feature:20",
+          "match": {
+            "arguments": [],
+            "location": "features/steps/orderdetails.py:87"
+          },
+          "name": "click on older",
+          "result": {
+            "duration": 10.168214797973633,
+            "status": "passed"
+          },
+          "step_type": "then"
+        }
+      ],
+      "tags": [],
+      "type": "scenario"
+    }
+  ],
+  "keyword": "Feature",
+  "location": "features/orderdetails.feature:1",
+  "name": "order details flipkart",
+  "status": "passed",
+  "tags": []
+}
+]

@@ -1,0 +1,331 @@
+2022-11-07 12:12:50,040 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:12:50,341 - Buynowstep.py:[24] - [INFO] - Close button clicked
+2022-11-07 12:12:50,418 - Buynowstep.py:[30] - [INFO] - Login button clicked
+2022-11-07 12:12:50,563 - Buynowstep.py:[36] - [INFO] - username field typed
+2022-11-07 12:12:50,669 - Buynowstep.py:[43] - [INFO] - password field type
+2022-11-07 12:12:50,722 - Buynowstep.py:[49] - [INFO] - sign in button clicked
+2022-11-07 12:12:50,805 - Buynowstep.py:[43] - [INFO] - password field type
+2022-11-07 12:15:05,618 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:15:05,707 - Buynowstep.py:[24] - [INFO] - Close button clicked
+2022-11-07 12:15:05,791 - Buynowstep.py:[30] - [INFO] - Login button clicked
+2022-11-07 12:15:05,898 - Buynowstep.py:[36] - [INFO] - username field typed
+2022-11-07 12:15:06,009 - Buynowstep.py:[43] - [INFO] - password field type
+2022-11-07 12:15:06,061 - Buynowstep.py:[49] - [INFO] - sign in button clicked
+2022-11-07 12:15:06,135 - Buynowstep.py:[43] - [INFO] - password field type
+2022-11-07 12:17:07,318 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:21:11,840 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:23:30,267 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:30:35,132 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:35:33,285 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:41:57,220 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:41:57,220 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 12:44:29,500 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:44:29,500 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 12:47:16,302 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 12:47:16,302 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:32:12,303 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:32:12,311 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:37:30,665 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:37:30,665 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:40:12,237 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:40:12,245 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:50:27,981 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:50:27,981 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:50:28,358 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 13:50:28,478 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 13:50:28,534 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 13:50:28,622 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 13:52:32,515 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:52:32,515 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:52:32,820 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 13:52:32,940 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 13:52:33,012 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 13:52:33,092 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 13:54:52,183 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 13:54:52,183 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 13:54:52,479 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 13:54:52,607 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 13:54:52,668 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 13:54:52,748 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:00:18,006 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:00:18,006 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:00:21,330 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:00:21,447 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:00:21,506 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:00:21,589 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:00:26,938 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 14:06:14,647 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:06:14,647 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:06:19,976 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:06:20,098 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:06:20,154 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:06:20,226 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:08:19,802 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:08:19,802 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:08:24,097 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:08:24,214 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:08:24,278 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:08:24,358 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:08:29,048 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 14:13:13,553 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:13:13,553 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:13:18,181 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:13:18,305 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:13:18,361 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:13:18,440 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:13:23,156 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 14:17:14,252 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:17:14,253 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:17:17,528 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:17:17,640 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:17:17,695 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:19:52,600 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:19:52,600 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:19:56,252 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:19:56,369 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:19:56,419 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:23:00,402 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:23:00,402 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:23:03,686 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:23:03,798 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:23:03,858 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:26:20,988 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:26:20,988 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:26:24,263 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:26:24,381 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:26:24,437 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:33:58,460 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:33:58,460 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:34:01,735 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:34:01,849 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:34:01,908 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:35:54,464 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:35:54,464 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:35:58,318 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:35:58,436 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:35:58,490 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:39:32,034 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:39:32,034 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:39:39,020 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:39:39,153 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:39:39,211 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:39:43,660 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 14:39:46,738 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 14:42:17,912 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:42:17,912 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:42:21,693 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:42:21,808 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:42:21,864 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:42:24,949 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 14:42:30,363 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 14:46:15,053 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 14:46:15,053 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 14:46:18,804 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 14:46:18,922 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 14:46:18,979 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 14:46:22,067 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 14:46:25,117 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:21:34,624 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:21:34,664 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:21:39,231 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:21:39,355 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:21:39,413 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 15:21:42,541 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 15:21:45,613 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:43:06,009 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:43:06,025 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:43:10,400 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:43:10,514 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:43:10,568 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 15:43:13,685 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 15:43:16,782 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:44:31,003 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:44:31,004 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:44:35,393 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:44:35,515 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:44:35,569 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 15:44:38,653 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 15:44:41,719 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:49:41,560 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:49:41,582 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:49:46,878 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:49:46,986 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:49:47,061 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 15:49:50,174 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 15:49:53,283 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:51:54,865 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:51:54,865 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:51:58,127 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:51:58,239 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:51:58,293 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 15:52:01,394 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 15:52:01,394 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 15:54:07,616 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 15:54:07,616 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 15:54:11,690 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 15:54:11,803 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 15:54:11,856 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:03:57,231 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:03:57,231 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:04:00,510 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:04:00,630 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:04:00,686 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:05:59,410 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:05:59,410 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:06:02,680 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:06:02,794 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:06:02,850 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:06:05,944 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:06:11,371 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:09:32,870 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:09:32,870 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:09:36,150 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:09:36,257 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:09:36,311 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:09:39,418 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:09:51,324 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:16:48,320 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:16:48,320 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:16:51,853 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:16:51,964 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:16:52,019 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:16:55,112 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:16:58,196 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:21:20,558 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:21:20,558 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:22:38,088 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:22:38,088 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:24:27,131 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:24:27,132 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:24:30,425 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:24:30,539 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:24:30,594 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:24:33,677 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:24:36,758 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:30:30,714 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:30:30,714 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:30:34,735 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:30:34,846 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:30:34,902 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:30:38,298 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:30:42,992 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:33:57,237 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:33:57,237 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:34:00,540 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:34:00,649 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:34:00,708 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:34:03,805 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:35:48,335 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:40:42,728 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:40:42,728 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:40:46,020 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:40:46,128 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:40:46,182 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:40:49,275 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:40:53,511 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:54:09,694 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:54:09,694 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:54:13,012 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:54:13,127 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:54:13,182 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:54:16,267 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:54:19,333 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:55:41,114 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:55:41,114 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:55:44,588 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:55:44,701 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:55:44,755 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 16:55:49,843 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 16:55:54,916 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 16:59:55,172 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 16:59:55,172 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 16:59:58,476 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 16:59:58,593 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 16:59:58,699 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 17:00:03,789 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 17:00:08,865 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 17:02:47,036 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 17:02:47,036 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 17:02:50,310 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 17:02:50,423 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 17:02:50,481 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 17:02:55,575 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 17:04:03,494 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 17:04:03,495 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 17:04:06,785 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 17:04:06,905 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 17:04:06,960 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 17:04:12,053 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 17:04:15,164 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 22:58:14,247 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 22:58:14,587 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:00:13,510 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:00:13,510 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:00:17,052 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:00:17,338 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:00:17,446 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:00:22,618 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:00:25,728 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:02:22,522 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:02:22,522 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:02:26,003 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:02:26,216 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:02:26,320 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:02:31,506 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:02:34,618 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:04:12,368 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:04:12,368 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:04:15,677 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:04:15,805 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:04:15,861 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:04:20,970 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:04:24,088 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:09:15,530 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:09:15,530 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:09:20,346 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:09:20,460 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:09:20,521 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:09:25,611 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:09:28,726 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:14:08,728 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:14:08,728 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:14:13,011 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:14:13,179 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:14:13,235 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:14:18,320 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:14:21,446 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:19:29,264 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:19:29,273 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:19:32,583 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:19:32,709 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:19:32,764 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:19:37,849 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:19:40,994 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:23:09,293 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:23:09,301 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:23:12,598 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:23:12,726 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:23:12,782 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:23:17,943 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:23:21,067 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:29:47,330 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:29:47,330 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:29:50,863 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:29:50,986 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:29:51,048 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:29:56,151 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:29:59,286 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:40:09,692 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:40:09,692 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:40:14,468 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:40:14,588 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:40:14,644 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:40:19,735 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:40:22,800 - Buynowstep.py:[64] - [INFO] - search button clicked
+2022-11-07 23:51:32,465 - Buynowstep.py:[22] - [INFO] - Navigate to Flipkart Homepage
+2022-11-07 23:51:32,465 - Buynowstep.py:[23] - [INFO] - Close button clicked
+2022-11-07 23:51:38,381 - Buynowstep.py:[39] - [INFO] - username field typed
+2022-11-07 23:51:38,487 - Buynowstep.py:[46] - [INFO] - password field type
+2022-11-07 23:51:38,555 - Buynowstep.py:[52] - [INFO] - sign in button clicked
+2022-11-07 23:51:43,643 - Buynowstep.py:[58] - [INFO] - search field type
+2022-11-07 23:51:46,713 - Buynowstep.py:[64] - [INFO] - search button clicked
